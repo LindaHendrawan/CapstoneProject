@@ -9,7 +9,7 @@
 
 ---
 [MS SQL](/pdf/sample_presentation.pdf)
-<img src="images/CP2_SQL.PNG?raw=true"/>
+<img src="images/CP2_MS_SQL.PNG?raw=true"/>
 
 ---
 [Power BI](http://example.com/)
