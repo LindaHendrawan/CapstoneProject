@@ -5,20 +5,20 @@
 ### Capstone Projects
 
 [Excel Dashboard](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/CP1_Excel.PNG?raw=true"/>
 
 ---
 [MS SQL](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/CP2_SQL.PNG?raw=true"/>
 
 ---
 [Power BI](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/CP3_P_BI.PNG?raw=true"/>
 
 ---
 
 [Python](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/CP4_Pytho.PNG?raw=true"/>
 
 ---
 ### Category Name 2
