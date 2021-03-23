@@ -4,21 +4,31 @@
 
 ### Capstone Projects
 
-[Excel Dashboard](/sample_page)
+[1. Telco Churn with Excel Dashboard](/sample_page)
 <img src="images/CP1_Excel.PNG?raw=true"/>
-
+<p> The objective of this project was to analyse the performance of Telecommunication Company, customer churn and create the interactive dashboard report in Excel. </p>
 ---
-[MS SQL](/pdf/sample_presentation.pdf)
+[2. Online Shopping Datasets Analytic by MS SQL](/pdf/sample_presentation.pdf)
+
 <img src="images/CP2_MS_SQL.PNG?raw=true"/>
+<p> The objective of this project was to analyze data from multiple files, including data transfer, data cleaning, and build ER diagram through MS SQL </p>
+<em> Data Source:<a href="https://www.kaggle.com/tanyadayanand/online-shopping"><\em>
+
 
 ---
-[Power BI](http://example.com/)
+[3. Early Age Child Mortality by Power BI](http://example.com/)
 <img src="images/CP3_P_BI.PNG?raw=true"/>
+<p> The objective of this project was to analyse data from multiple files and sources, and build interactive dashboard through Power BI. </p>
+<em> Data Source: <a href= "https://www.kaggle.com/utkarshxy/who  worldhealth-statistics-2020-complete">, <a href= "https://data.unicef.org/?s=children&is_v=1">, <a href= "https://ourworldindata.org/grapher/causes-of-death-in-children-under-5"> <\em>
 
 ---
 
-[Python](http://example.com/)
+[4. Personal Medical Cost Prediction Analysis by Python](http://example.com/)
 <img src="images/CP4_Pytho.PNG?raw=true"/>
+<p> The objective of this project was to analyse data and create prediction using Machine Learning Model in Python
+<em> Data Source: <a href= "https://www.kaggle.com/mirichoi0218/insurance"> <\em>
+
+
 
 ---
 ### Category Name 2
