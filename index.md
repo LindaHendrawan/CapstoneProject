@@ -1,21 +1,19 @@
-## Projects
-
----
-
 ### Capstone Projects
 
 [1. Telco Churn with Excel Dashboard](/sample_page)
+
 <img src="images/CP1_Excel.PNG?raw=true"/>
 <p> The objective of this project was to analyse the performance of Telecommunication Company, customer churn and create the interactive dashboard report in Excel. </p>
----
-[2. Online Shopping Datasets Analytic by MS SQL](/pdf/sample_presentation.pdf)
 
+<br>
+[2. Online Shopping Datasets Analytic by MS SQL](/pdf/sample_presentation.pdf)
+[download pdf].(pdf/OL_shop.pdf)
 <img src="images/CP2_MS_SQL.PNG?raw=true"/>
 <p> The objective of this project was to analyze data from multiple files, including data transfer, data cleaning, and build ER diagram through MS SQL </p>
-<em> Data Source:<a href="https://www.kaggle.com/tanyadayanand/online-shopping"><\em>
+<em> Data Source:<a href="https://www.kaggle.com/tanyadayanand/online-shopping"> <\em>
 
 
----
+<br>
 [3. Early Age Child Mortality by Power BI](http://example.com/)
 <img src="images/CP3_P_BI.PNG?raw=true"/>
 <p> The objective of this project was to analyse data from multiple files and sources, and build interactive dashboard through Power BI. </p>
