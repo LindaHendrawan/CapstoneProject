@@ -34,7 +34,7 @@
 [download pdf](pdf/Medical_Cost.pdf)
 <img src="images/CP4_Python.PNG?raw=true"/>
 <p> The objective of this project was to analyse data and create prediction using Machine Learning Model in Python.</p>
-<em> Data Source: <a href= "https://www.kaggle.com/mirichoi0218/insurance" target"=_blank">kaggle</a></em>
+<em> Data Source: <a href= "https://www.kaggle.com/mirichoi0218/insurance" target="_blank">kaggle</a></em>
 
 
 
