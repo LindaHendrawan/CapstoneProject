@@ -1,15 +1,15 @@
 ### Capstone Projects
 
 <br>
-<strong> 1. Telco Customer Churn in Excel Dashboard </strong>
+1. Telco Customer Churn in Excel 
 
 <img src="images/CP1_Excel.PNG?raw=true"/>
 <p> The objective of this project was to analyse the performance of Telecommunication Company, customer churn and create the interactive dashboard report in Excel. </p>
-<em> Data Source: <a href= https://www.kaggle.com/puja19/telcom-customer-churn> </a> </em>
+<em> Data Source: href= https://www.kaggle.com/puja19/telcom-customer-churn> </em>
 
 <br><br>
 
-[2. Online Shopping Datasets Analytic by MS SQL](/pdf/sample_presentation.pdf)
+2. Online Shopping Datasets Analytic in MS SQL
 [download pdf](pdf/OL_shop.pdf)
 <img src="images/CP2_MS_SQL.PNG?raw=true"/>
 <p> The objective of this project was to analyze data from multiple files, including data transfer, data cleaning, and build ER diagram through MS SQL </p>
