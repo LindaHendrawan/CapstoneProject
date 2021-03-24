@@ -14,7 +14,7 @@
 <br>
 [download pdf](pdf/OL_shop.pdf)
 <img src="images/CP2_MS_SQL.PNG?raw=true"/>
-<p> The objective of this project was to analyze data from multiple files, including data transfer, data cleaning, and build ER diagram through MS SQL </p>
+<p> The objective of this project was to analyze data from multiple files, including data transfer, data cleaning, and build ER diagram through MS SQL. </p>
 <em> Data Source:<a href="https://www.kaggle.com/tanyadayanand/online-shopping" target="_blank">kaggle</a></em>
 
 
@@ -34,7 +34,7 @@
 <br>
 [download pdf](pdf/Medical_Cost.pdf)
 <img src="images/CP4_Pytho.PNG?raw=true"/>
-<p> The objective of this project was to analyse data and create prediction using Machine Learning Model in Python. </p>
+<p> The objective of this project was to analyse data and create prediction using Machine Learning Model in Python.</p>
 <em> Data Source: <a href= "https://www.kaggle.com/mirichoi0218/insurance" target"=_blank">kaggle</a></em>
 
 
