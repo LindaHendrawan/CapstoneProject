@@ -1,7 +1,6 @@
-### Capstone Projects
+## Capstone Projects
 
-<br>
-1. Telco Customer Churn in Excel 
+### Capstone 1. Telco Customer Churn in Excel 
 <br>
 [download pdf](pdf/Telco.pdf)
 <img src="images/CP1_Excel.PNG?raw=true"/>
@@ -9,8 +8,8 @@
 <em> Data Source:<a href= https://www.kaggle.com/vhcg77/telcom-churns-dataset" target="_blank">kaggle</a></em>
 
 <br>
-<br>
-2. Online Shopping Datasets Analytic in MS SQL
+---
+### Capstone 2. Online Shopping Datasets Analytic in MS SQL
 <br>
 [download pdf](pdf/OL_shop.pdf)
 <img src="images/CP2_MS_SQL.PNG?raw=true"/>
@@ -19,8 +18,8 @@
 
 
 <br>
-<br>
-3. Early Age Child Mortality in Power BI 
+---
+### Capstone 3. Early Age Child Mortality in Power BI 
 <br>
 [download pdf](pdf/Child_Mortality.pdf)
 <img src="images/CP3_P_BI.PNG?raw=true"/>
@@ -29,7 +28,7 @@
 
 <br>
 ---
-4. Personal Medical Cost Prediction Analysis in Python
+### Capstone 4. Personal Medical Cost Prediction Analysis in Python
 <br>
 <iframe src="https://onedrive.live.com/embed?cid=FA0F2DF86D6EB2FA&amp;resid=FA0F2DF86D6EB2FA%212177&amp;authkey=AM4_yC27U5bwvu4&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="450px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
