@@ -21,7 +21,7 @@
 ---
 ### Capstone 3. Early Age Child Mortality in Power BI 
 <br>
-<a href="pdf/Child_Mortality.pdf" target="_blank">download pdf</a>
+<a href="pdf/Children_Mortality.pdf" target="_blank">download pdf</a>
 <br>
 
 <img src="images/CP3_P_BI.PNG?raw=true"/>
