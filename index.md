@@ -9,7 +9,7 @@
 <em> Data Source:<a href= https://www.kaggle.com/puja19/telcom-customer-churn" target="_blank">kaggle</a></em>
 
 <br>
-
+<br>
 2. Online Shopping Datasets Analytic in MS SQL
 <br>
 [download pdf](pdf/OL_shop.pdf)
@@ -19,8 +19,8 @@
 
 
 <br>
-
-3. Early Age Child Mortality by Power BI 
+<br>
+3. Early Age Child Mortality in Power BI 
 <br>
 [download pdf](pdf/Child_Mortality.pdf)
 <img src="images/CP3_P_BI.PNG?raw=true"/>
@@ -29,8 +29,8 @@
 
 
 <br>
-
-[4. Personal Medical Cost Prediction Analysis by Python](http://example.com/)
+<br>
+4. Personal Medical Cost Prediction Analysis in Python
 <br>
 [download pdf](pdf/Medical_Cost.pdf)
 <img src="images/CP4_Pytho.PNG?raw=true"/>
