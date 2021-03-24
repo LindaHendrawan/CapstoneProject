@@ -2,10 +2,10 @@
 
 ### Capstone 1. Telco Customer Churn in Excel 
 <br>
-<a href= pdf/Telco.pdf" target="_blank">download pdf</a>
+<a href="pdf/Telco.pdf" target="_blank">download pdf</a>
 <img src="images/CP1_Excel.PNG?raw=true"/>
 <p> The objective of this project was to analyse the performance of Telecommunication Company, customer churn and create the interactive dashboard report in Excel. </p>
-<em> Data Source:<a href= https://www.kaggle.com/vhcg77/telcom-churns-dataset" target="_blank">kaggle</a></em>
+<em> Data Source:<a href="https://www.kaggle.com/vhcg77/telcom-churns-dataset" target="_blank">kaggle</a></em>
 
 <br>
 ---
