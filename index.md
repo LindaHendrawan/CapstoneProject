@@ -22,17 +22,21 @@
 ### Capstone 3. Early Age Child Mortality in Power BI 
 <br>
 <a href="pdf/Child_Mortality.pdf" target="_blank">download pdf</a>
+<br>
+
 <img src="images/CP3_P_BI.PNG?raw=true"/>
 <p> The objective of this project was to analyse data from multiple files and sources, and build interactive dashboard through Power BI. </p>
-<em> Data Source: <a href= "https://www.kaggle.com/utkarshxy/who  worldhealth-statistics-2020-complete" target="_blank">kaggle</a>, <a href= "https://data.unicef.org/?s=children&is_v=1" target="_blank">unicef</a>, <a href= "https://ourworldindata.org/grapher/causes-of-death-in-children-under-5" target="_blank">ourworldindata</a></em>
+<em> Data Source: <a href= "https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete" target="_blank">kaggle</a>, <a href= "https://data.unicef.org/?s=children&is_v=1" target="_blank">unicef</a>, <a href= "https://databank.worldbank.org/reports.aspx?source=2&series=SP.POP.TOTL&country=" target="_blank">worldbank</a>,
+ <a href= "https://ourworldindata.org/grapher/causes-of-death-in-children-under-5" target="_blank">ourworldindata</a></em>
 
 <br>
 ---
 ### Capstone 4. Personal Medical Cost Prediction Analysis in Python
 <br>
+<a href="pdf/Medical_Cost.pdf" target="_blank">download pdf</a>
+<br>
 <iframe src="https://onedrive.live.com/embed?cid=FA0F2DF86D6EB2FA&amp;resid=FA0F2DF86D6EB2FA%212177&amp;authkey=AM4_yC27U5bwvu4&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="450px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
-<a href="pdf/Medical_Cost.pdf" target="_blank">download pdf</a>
 <img src="images/CP4_Python.PNG?raw=true"/>
 <p> The objective of this project was to analyse data and create prediction using Machine Learning Model in Python.</p>
 <em> Data Source: <a href= "https://www.kaggle.com/mirichoi0218/insurance" target="_blank">kaggle</a></em>
