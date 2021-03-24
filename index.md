@@ -1,10 +1,11 @@
 ### Capstone Projects
 
 <br>
-[1. Telco Churn with Excel Dashboard](/sample_page)
+<em>1. Telco Churn with Excel Dashboard </em> 
 
 <img src="images/CP1_Excel.PNG?raw=true"/>
 <p> The objective of this project was to analyse the performance of Telecommunication Company, customer churn and create the interactive dashboard report in Excel. </p>
+<em> Data Source: <a href= https://www.kaggle.com/puja19/telcom-customer-churn> </em>
 
 <br>
 
