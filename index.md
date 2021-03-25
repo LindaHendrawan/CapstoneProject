@@ -5,7 +5,7 @@
 <a href="pdf/Telco.pdf" target="_blank">download pdf</a>
 <br>
 <iframe width="100%" height="346" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=FA0F2DF86D6EB2FA%212185&authkey=%21AJf0ni_vpRRKCU8&em=2&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
-<img src="images/CP1_Excel.PNG?raw=true"/>
+
 <p> The objective of this project was to analyse the performance of Telecommunication Company, customer churn and create the interactive dashboard report in Excel. </p>
 <em> Data Source:<a href="https://www.kaggle.com/vhcg77/telcom-churns-dataset" target="_blank">kaggle</a></em>
 
@@ -13,8 +13,8 @@
 ---
 ### Capstone 2. Online Shopping Datasets Analytic in MS SQL
 <br>
-<iframe src="https://onedrive.live.com/embed?cid=FA0F2DF86D6EB2FA&amp;resid=FA0F2DF86D6EB2FA%212187&amp;authkey=AChagSK3YPvVbVM&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="450px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 <a href="pdf/OL_shop.pdf" target="_blank">download pdf</a>
+<iframe src="https://onedrive.live.com/embed?cid=FA0F2DF86D6EB2FA&amp;resid=FA0F2DF86D6EB2FA%212187&amp;authkey=AChagSK3YPvVbVM&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="450px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 <p> The objective of this project was to analyze data from multiple files, including data transfer, data cleaning, and build ER diagram through MS SQL. </p>
 <em> Data Source:<a href="https://www.kaggle.com/tanyadayanand/online-shopping" target="_blank">kaggle</a></em>
