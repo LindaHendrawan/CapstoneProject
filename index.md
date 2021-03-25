@@ -48,7 +48,7 @@
 ## Hackathon 
 ### Hackathon 1. Loans
 <br>
-<a href="pdf/Loan.pdf" target="_blank">download pdf</a>
+<a href="pdf/Loans.pdf" target="_blank">download pdf</a>
 <br>
 <img src="images/HT1_P_BI.PNG?raw=true"/>
 
