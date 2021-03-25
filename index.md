@@ -43,9 +43,18 @@
 <p> The data is about Medical Bills of patients in USA. The objective of this project was to analyse data and create prediction using Machine Learning Model in Python.</p>
 <em> Data Source: <a href= "https://www.kaggle.com/mirichoi0218/insurance" target="_blank">kaggle</a></em>
 
-
-
+<br>
 ---
+## Hackathon 
+### Hackathon 1. Loans
+<br>
+<a href="pdf/Loan.pdf" target="_blank">download pdf</a>
+<br>
+<img src="images/CP3_P_BI.PNG?raw=true"/>
+
+<p> The data is about Financial Institution which customer loans. The aim of this project was to work in a team to analyse data, data cleaning, data transformation and build interactive dashboard in Power BI. </p>
+
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
