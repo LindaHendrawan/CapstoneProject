@@ -13,7 +13,7 @@
 ---
 ### Capstone 2. Online Shopping Datasets Analytic in MS SQL
 <br>
-<iframe src="https://onedrive.live.com/embed?cid=FA0F2DF86D6EB2FA&amp;resid=FA0F2DF86D6EB2FA%212187&amp;authkey=AChagSK3YPvVbVM&amp;em=2&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=FA0F2DF86D6EB2FA&amp;resid=FA0F2DF86D6EB2FA%212187&amp;authkey=AChagSK3YPvVbVM&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 <a href="pdf/OL_shop.pdf" target="_blank">download pdf</a>
 <img src="images/CP2_MS_SQL.PNG?raw=true"/>
 <p> The objective of this project was to analyze data from multiple files, including data transfer, data cleaning, and build ER diagram through MS SQL. </p>
