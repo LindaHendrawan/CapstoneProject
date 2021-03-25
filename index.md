@@ -50,7 +50,7 @@
 <br>
 <a href="pdf/Loan.pdf" target="_blank">download pdf</a>
 <br>
-<img src="images/CP3_P_BI.PNG?raw=true"/>
+<img src="images/HT1_P_BI.PNG?raw=true"/>
 
 <p> The data is about Financial Institution which customer loans. The aim of this project was to work in a team to analyse data, data cleaning, data transformation and build interactive dashboard in Power BI. </p>
 
